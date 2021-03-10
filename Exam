@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <meta charset="utf-8">
+  <title>About Me</title>
+</head>
+
+<body>
+  <h1>Hi, my name is John Doe!</h1>
+
+  <img src="my_photo.png" alt="That's me, John!">
+
+  <p>
+    I am a Ruby/Python/Node developer with 8 years' experience.<br> I've graduated <abbr title="Massachusetts Institute of Technology">MIT</abbr> in 2007 and since that have worked with the following companies:
+  </p>
+
+  <ul>
+    <li>Macrosoft</li>
+    <li>Pineapple</li>
+    <li>Facelook</li>
+  </ul>
+
+</body>
+
+</html>
